@@ -11,7 +11,7 @@
             margin: 0;
         }
         body{
-            background-image: linear-gradient(to right, rgba(109, 179, 242, .6), rgba(242, 242, 242, .6)), url('img/background.jpg');
+            background-image: linear-gradient(to right, rgba(109, 179, 242, .6), rgba(242, 242, 242, .6)), url('background.jpg');
 background-size: cover;
 background-repeat: repeat, no-repeat;
             color: darkblue;
